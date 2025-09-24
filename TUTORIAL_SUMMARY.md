@@ -46,12 +46,42 @@ Este repositorio ahora incluye un **tutorial completo y práctico** para el uso 
 - ✅ **Build.sbt configurado** para Spark MLlib y Breeze
 - ✅ **Sintaxis verificada** ✓
 
-## 🛠️ Frameworks de AI Incluidos
+#### 🔹 Angular (17.0)
+- ✅ **Componentes reactivos**: Reactive forms, RxJS observables
+- ✅ **TypeScript nativo**: Decoradores, inyección de dependencias
+- ✅ **Arquitectura empresarial**: Módulos, servicios, guards
+- ✅ **Performance optimizada**: OnPush strategy, trackBy functions
+- ✅ **Testing integrado**: Jasmine, Karma, TestBed
+- ✅ **Package.json configurado** ✓
 
-### Machine Learning Clásico
-- **Scikit-learn** (Python)
-- **Weka** (Java)
-- **Breeze** (Scala)
+#### 🔹 React (18.2)
+- ✅ **Hooks modernos**: useState, useEffect, useCallback, useMemo
+- ✅ **Componentes funcionales**: JSX, programación funcional
+- ✅ **Estado local y global**: Context API, custom hooks
+- ✅ **Performance optimizada**: React.memo, lazy loading
+- ✅ **Testing moderno**: Jest, React Testing Library
+- ✅ **Package.json configurado** ✓
+
+## 🛠️ Frameworks Incluidos
+
+### 🤖 Machine Learning y AI
+- **Scikit-learn** (Python) - Machine learning clásico
+- **TensorFlow/Keras** (Python) - Deep learning y redes neuronales
+- **Weka** (Java) - Algoritmos ML y minería de datos
+- **Spark MLlib** (Scala) - ML distribuido y big data
+- **Breeze** (Scala) - Computación numérica y álgebra lineal
+
+### 🌐 Frontend y UI
+- **Angular** (TypeScript) - Framework empresarial completo
+- **React** (TypeScript/JavaScript) - Library para interfaces reactivas
+- **RxJS** (Angular) - Programación reactiva con observables
+- **Hooks** (React) - Estado y efectos en componentes funcionales
+
+### 🔧 Backend y APIs
+- **ASP.NET Core** (C#) - APIs web modernas
+- **Spring Boot** (Java) - Microservicios empresariales
+- **HTTP Client** (Java) - Clientes HTTP asíncronos
+- **Async/Await** (C#) - Programación asíncrona
 
 ### Deep Learning
 - **TensorFlow/Keras** (Python)

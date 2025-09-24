@@ -116,6 +116,28 @@ Explora el poder de Scala y GitHub Copilot para AI:
 - [🚀 Spark MLlib](./examples/scala/spark/)
 - [🔢 Breeze para computación numérica](./examples/scala/breeze/)
 
+### Angular con GitHub Copilot
+
+Desarrolla aplicaciones Angular modernas con TypeScript:
+
+- [🅰️ Ejemplos básicos de Angular](./examples/angular/)
+- [🔧 Componentes reactivos](./examples/angular/basic/)
+- [🤖 Integración con APIs de AI](./examples/angular/ai-integration/)
+- [🧪 Testing con Jasmine/Karma](./examples/angular/testing/)
+
+### React con GitHub Copilot
+
+Crea interfaces de usuario dinámicas con hooks modernos:
+
+- [⚛️ Ejemplos básicos de React](./examples/react/)
+- [🪝 Hooks personalizados](./examples/react/basic/)
+- [🤖 Integración con APIs de AI](./examples/react/ai-integration/)
+- [🧪 Testing con React Testing Library](./examples/react/testing/)
+
+### 🆚 Comparación Angular vs React
+
+- [📊 Guía completa de diferencias](./examples/ANGULAR_VS_REACT.md)
+
 ## 📖 Mejores prácticas
 
 ### 🎯 Escribir prompts efectivos
