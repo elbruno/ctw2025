@@ -416,3 +416,71 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+target/
+
+# Scala
+*.class
+*.jar
+target/
+.cache
+.history
+.lib/
+dist/*
+project/boot/
+project/plugins/project/
+
+# SBT
+.sbt-1.0/
+
+# Metals
+.metals/
+.bloop/
+project/metals.sbt
+
+# Temporary files
+**/tmp/
+**/.tmp
